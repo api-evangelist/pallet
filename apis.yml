@@ -8,6 +8,17 @@ description: 'Pallet builds an AI-powered logistics workforce: autonomous AI age
   surfaces revenue opportunities across freight operations. Pallet is backed by Bain
   Capital Ventures and General Catalyst. No public developer API, SDK, or documentation
   surface was found during enrichment.'
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
